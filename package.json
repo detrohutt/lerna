@@ -113,8 +113,5 @@
     "testMatch": [
       "**/test/*.js"
     ]
-  },
-  "engines": {
-    "node": ">= 4"
   }
 }
